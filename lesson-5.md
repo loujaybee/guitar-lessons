@@ -1,6 +1,14 @@
 
 # Lesson 5 - Major / Minor
 
+## Tone + Semitone Pattern
+T = Tone
+S = Semitone
+
+Major scale - T T S T T T S
+
+Minor scale - T S T T S T T
+
 ## G MAJOR
 
 E|-----------------------------------------2--3--
