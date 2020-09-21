@@ -5,3 +5,4 @@
 * [ Lesson 4 ](./lesson-4.md)
 * [ Lesson 5 ](./lesson-5.md)
 * [ Lesson 6 ](./lesson-6.md)
+* [ Lesson 7 ](./lesson-7.md)
