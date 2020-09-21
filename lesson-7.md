@@ -1,5 +1,5 @@
 
-## Modes
+## Modes
 
 1. Ionian
 1. Dorian
@@ -9,7 +9,7 @@
 1. Aeolian
 1. Locrian
 
-## G IONIAN MODE
+## G IONIAN MODE
 
 - Is the first mode of the G scale
 
@@ -37,7 +37,7 @@ A|-----------5--7-------    -------------------------
 E|--5--7--8-------------    -------------------------
 ```
 
-## Phrygian (B)
+## Phrygian (B)
 
 - Spanish / Flamenco Mode
 
@@ -106,6 +106,6 @@ A|--------------12--14--15--------------------------------------
 E|--12--14--15--------------------------------------------------
 ```
 
-## TODO
+## TODO
 
 - Play the full G Major down the neck
