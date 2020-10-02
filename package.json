@@ -5,7 +5,7 @@
     "author": "Lou Bichard <contact@louisjohnbichard.co.uk>",
     "license": "MIT",
     "scripts": {
-        "build": "gitbook build . docs",
+        "build": "gitbook build . docs && git add --all && git commit -m \"update\" && git push",
         "serve": "gitbook serve"
     },
     "dependencies": {
