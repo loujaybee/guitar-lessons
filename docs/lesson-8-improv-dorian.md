@@ -1,11 +1,13 @@
 
 ## Experimenting with Modes and backing tracks
 
-### Oye Como Va (Santana)
+### Oye Como Va (Santana) Dorian G
 
 - Plays a Dominant A, then a D9
 - Fits with A Dorian
 - Fits with A Pentatonic
+- F# is the stand out tone, play that for modal
+- When improvising try to end on A
 
 ```
 E|--5-----
