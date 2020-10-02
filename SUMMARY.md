@@ -1,5 +1,5 @@
 
-* [ Lesson 1 ](./lesson-1.md)
+* [ Lesson 1 ](./lesson-1-pentatonic.md)
 * [ Lesson 2 ](./lesson-2.md)
 * [ Lesson 3 ](./lesson-3.md)
 * [ Lesson 4 - Diatonic Chords ](./lesson-4-diatonics.md)
