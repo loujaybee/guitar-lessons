@@ -47,6 +47,7 @@ E|--5--7--8--------------------------------------
 
 - Sounds like: Spanish / Flamenco Mode
 - Interval difference:
+- To remember: start egyptian
 
 ```
 E|------------------------------------------------7--
@@ -64,6 +65,7 @@ E|--7--8--10-----------------------------------------
 - Sounds like: Angelic
 - Interval difference: Swaps major fourth for tri-tone (flat fifth)
 - Almost more major than major
+- To remember: Play major, but change the third
 
 ```
 E|---------------------------------------------7--8--
