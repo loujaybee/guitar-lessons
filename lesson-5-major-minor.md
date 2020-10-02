@@ -1,15 +1,9 @@
 
 # Lesson 5 - Major / Minor
 
-## Tone + Semitone Pattern
-T = Tone
-S = Semitone
-
-Major scale - T T S T T T S
-
-Minor scale - T S T T S T T
-
 ## G MAJOR (Ionian Mode)
+
+* Major scale - T T S T T T S
 
 ```
 E|-----------------------------------------2--3--
@@ -22,6 +16,8 @@ E|--3--5-----------------------------------------
 
 ## G NATURAL MINOR
 
+* Minor scale - T S T T S T T
+
 ```
 E|--------------------------------------------3--
 B|-----------------------------------3--4--6-----
@@ -31,7 +27,7 @@ A|-----------3--5--6-----------------------------
 E|--3--5--6--------------------------------------
 ```
 
-RELATIVE MINOR
+## RELATIVE MINOR
 
 - E is the relative minor of G
 - Minor in E is the same as major in G

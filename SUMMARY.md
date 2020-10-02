@@ -1,10 +1,11 @@
 
-* [ Lesson 1 ](./lesson-1-pentatonic.md)
+* [ Lesson 1 - Pentatonic ](./lesson-1-pentatonic.md)
 * [ Lesson 2 ](./lesson-2.md)
 * [ Lesson 3 ](./lesson-3.md)
 * [ Lesson 4 - Diatonic Chords ](./lesson-4-diatonics.md)
 * [ Lesson 5 - Major / Minor Scales ](./lesson-5-major-minor.md)
-* [ Lesson 6 - 7th Chords  ](./lesson-6-7th-chords.md)
+* [ Lesson 6a - Intervals In Songs  ](./lesson-6a-intervals-in-songs.md)
+* [ Lesson 6 - 7th Chords  ](./lesson-6b-7th-chords.md)
 * [ Lesson 7 - All Modes ](./lesson-7-all-modes.md)
 * [ Lesson 8 - Improv Dorian 1 ](./lesson-8-improv-dorian.md)
 * [ Lesson 9 - Improv Dorian 2 ](./lesson-9-improv-dorian.md)

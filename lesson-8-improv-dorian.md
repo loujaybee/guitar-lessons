@@ -4,10 +4,12 @@
 ### Oye Como Va (Santana) Dorian G
 
 - Plays a Dominant A, then a D9
-- Fits with A Dorian
-- Fits with A Pentatonic
-- F# is the stand out tone, play that for modal
-- When improvising try to end on A
+- Fits with A Dorian & A Pentatonic
+- F# is the stand out tone for Dorian
+
+Backing:
+
+- (G) 2nd -> 4th (D)
 
 ```
 E|--5-----
@@ -28,10 +30,6 @@ D|-----------------4--5--7-----------------------
 A|-----------5--7--------------------------------
 E|--5--7--8--------------------------------------
 ```
-
-- Dorian
-    - ii to iv (minor 2 to major 4) (oye como va)
-    - ii to iii (minor 2 to minor 3) (moondance)
 
 ## Questions
 

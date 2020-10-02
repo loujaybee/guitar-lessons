@@ -16,3 +16,8 @@
 - Mix in some chords to the improvisation
 - Go back through and transcribe the pentatonics
 - Count along with the backing track
+- Go through scales and recount the notes
+
+## Questions
+- We discussed natural minor, should I do anything with that?
+- How is o ye como va structured? Is it in G? 2nd and 4th?
