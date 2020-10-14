@@ -9,3 +9,4 @@
 * [ Lesson 7 - All Modes ](./lesson-7-all-modes.md)
 * [ Lesson 8 - Improv Dorian 1 ](./lesson-8-improv-dorian.md)
 * [ Lesson 9 - Improv Dorian 2 ](./lesson-9-improv-dorian.md)
+* [ Lesson 10 - Crossroads John Mayer ](./lesson-10-crossroads.md)
