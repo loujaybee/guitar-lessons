@@ -1,5 +1,4 @@
 
-
 ## Question
 
 - What is "B2" in the chord?
@@ -21,3 +20,4 @@
 ## Questions
 - We discussed natural minor, should I do anything with that?
 - How is o ye como va structured? Is it in G? 2nd and 4th?
+
