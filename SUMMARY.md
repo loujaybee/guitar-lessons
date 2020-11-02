@@ -11,3 +11,4 @@
 * [ Lesson 9 - Improv Dorian 2 ](./lesson-9-improv-dorian.md)
 * [ Lesson 10 - Crossroads John Mayer ](./lesson-10-crossroads-john-mayer.md)
 * [ Lesson 11 - Crossroads John Mayer ](./lesson-11-scar-tissue.md)
+* [ Lesson 12 - Arpeggis ](./lesssn-12-arpeggios.md)
