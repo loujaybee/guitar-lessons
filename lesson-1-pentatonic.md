@@ -1,10 +1,7 @@
 
 ## 12 Bar Blues (Shuffle)
 
-### Exercise: Backing Pattern
-
-- Try adding the blue note (the flat 5)
-
+Chord progression:
 - G, G, G, G
 - C, C, G, G
 - D, C, G, D
@@ -20,9 +17,9 @@ A|--5--7--8--7----3--3--3--3----5--5--5---5----5--
 E|--3--3--3--3------------------------------------
 ```
 
-## G Minor Pentatonic
+Tip: Try adding the blue note (the flat 5)
 
-### All positions
+## G Minor Pentatonic
 
 ```
 E|--------------------------------3--6--

@@ -45,13 +45,3 @@ D|--12--9-12--14------------------------------------------------------------
 A|--------------------------------------------------------------------------
 E|--------------------------------------------------------------------------
 ```
-
-Questions:
-
-- Bit at the end doesn't sound right
-- How to make it sound more slinky / funky?
-- How to palm mute on the bit at the bottom
-- Hard to find the balance of single notes and clarity versus across strings to add the depth
-
-
-
