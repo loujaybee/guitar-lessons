@@ -12,4 +12,6 @@
 * [ Lesson 13 - Scar Tissue 3 ](./lesson-13-scar-tissue-3.md)
 * [ Lesson 14 - Polyphia - So Strange ](./lesson-14-so-strange.md)
 * [ Lesson 16 - Slow Dancing ](./lesson-16-slow-dancing.md)
+* [ Lesson 17 - Little Wing ](./lesson-17-little-wing.md)
+* [ Lesson 18 - General Questions ](./lesson-18-general-questions.md)
 * [ Questions ](./questions.md)

@@ -1,4 +1,3 @@
-
 ## Modes
 
 1. Ionian
@@ -11,7 +10,7 @@
 
 ## G IONIAN MODE
 
-**Chord:** Major
+**Chord:** Major (WWHWWWH)
 
 - Is the first mode of the G scale
 
@@ -26,7 +25,7 @@ E|--3--5-----------------------------------------
 
 ## A DORIAN
 
-**Chord:** Minor 7 + Major 6thi
+**Chord:** Minor 7 + Major 6th (WHWWWHW)
 
 - Takes a bit of minor, and adds in major, with a minor seven
 - If you compare it to a natural minor
