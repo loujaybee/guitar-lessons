@@ -4,6 +4,7 @@
 - When you play Dorian of C, you'd call it C Dorian? Even though it's also D Major.
 - Why are some flat, some sharps in the scale formulas?
 - Does my layout of the full 12 note box makes sense? 5 notes on the fifth?
+- https://beatoeartraining.com/
 
 ## C Scale
 
@@ -55,4 +56,3 @@ https://www.youtube.com/watch?v=VvP-DhS6fhQ
     - G F# (12/11 on G)
 
 https://www.youtube.com/watch?v=CD-E-LDc384
-    -

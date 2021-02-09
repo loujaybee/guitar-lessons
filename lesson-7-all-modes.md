@@ -9,7 +9,7 @@
 1. Locrian
 
 ## G IONIAN MODE
-
+R 2 3 4 5 6 7
 **Chord:** Major (WWHWWWH)
 
 - Is the first mode of the G scale
@@ -24,7 +24,7 @@ E|--3--5-----------------------------------------
 ```
 
 ## A DORIAN
-
+R 2 b3 4 5 6 b7
 **Chord:** Minor 7 + Major 6th (WHWWWHW)
 
 - Takes a bit of minor, and adds in major, with a minor seven
@@ -41,12 +41,12 @@ E|--5--7--8--------------------------------------
 ```
 
 ## Phrygian (B)
-
+R b9(b2) b3 4 5 b6 b7
 **Chord:** Minor Chord + B2
 
 - Sounds like: Spanish / Flamenco Mode
-- Interval difference:
-- To remember: start egyptian
+- Egyptian sounding
+- To remember: Lydian shape but start one half step lower (starting on major 7)
 
 ```
 E|------------------------------------------------7--
@@ -58,13 +58,13 @@ E|--7--8--10-----------------------------------------
 ```
 
 ## Lydian (C)
-
+R 2 3 #4 5 6 7
 **Chord:** Major Chord + 4th
 
 - Sounds like: Angelic
 - Interval difference: Swaps major fourth for tri-tone (flat fifth)
 - Almost more major than major
-- To remember: Play major, but change the third
+- To remember: Play major, but change 4 to sharp 4
 
 ```
 E|---------------------------------------------7--8--
@@ -76,7 +76,7 @@ E|--8--10--------------------------------------------
 ```
 
 ## Mixolydian (D)
-
+R 2 3 4 5 6 b7
 **Chord:** Dominant 7th
 
 - Minor 7 / flat 7 instead of major 7
@@ -94,8 +94,8 @@ E|--10--12---------------------------------------------------
 ```
 
 ## Aeolian (E)
-
-**Chord:** Minor Chord
+R 2 b3 4 5 b6 b7
+**Chord:** Minor 7 + Flat 6th
 
 - We were missing this one! (no video)
 - Like Dorian, except the 6th is flat 6
@@ -110,9 +110,10 @@ E|--12--14--15--------------------------------------------------
 ```
 
 ## Locrian (F#)
-
+R b9(b2) b3 4 b5 b6 b7
 **Chord:** Minor 7 B5
 
+- To remember the shape: play the major shape (1st, but start a half step lower)
 - More experimental music
 - Some metal
 

@@ -1,4 +1,5 @@
 
+* [ Practice Routine(s) ](./practice-routine.md)
 * [ Lesson 1 - Pentatonic ](./lesson-1-pentatonic.md)
 * [ Lesson 4 - Diatonic Chords ](./lesson-4-diatonics.md)
 * [ Lesson 5 - Major / Minor Scales ](./lesson-5-major-minor.md)
@@ -14,4 +15,8 @@
 * [ Lesson 16 - Slow Dancing ](./lesson-16-slow-dancing.md)
 * [ Lesson 17 - Little Wing ](./lesson-17-little-wing.md)
 * [ Lesson 18 - General Questions ](./lesson-18-general-questions.md)
+* [ Lesson 23 - Jazz / Cantaloupe Island ](./lesson-23-cantaloupe-island.md)
+* [ Lesson 24 - Ben Howard Only Love ](./lesson-24-ben-howard-only-love.md)
+* [ Lesson 26 - Major ](./lesson-26-major.md)
+* [ Lesson 27 - Chords For Major Modes ](./lesson-27-chords-for-modes.md)
 * [ Questions ](./questions.md)
