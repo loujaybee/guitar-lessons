@@ -19,4 +19,5 @@
 * [ Lesson 24 - Ben Howard Only Love ](./lesson-24-ben-howard-only-love.md)
 * [ Lesson 26 - Major ](./lesson-26-major.md)
 * [ Lesson 27 - Chords For Major Modes ](./lesson-27-chords-for-modes.md)
+* [ Lesson 28 - Autumn leaves ](./lesson-28-autumn-leaves.md)
 * [ Questions ](./questions.md)
