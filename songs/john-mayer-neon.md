@@ -1,6 +1,8 @@
 
 ## Neon
 
+- Drop low E waaaay down to a C
+
 ### Intro / Verse
 
 ```

@@ -1,23 +1,34 @@
 
+## Misc
 * [ Practice Routine(s) ](./practice-routine.md)
-* [ Lesson 1 - Pentatonic ](./lesson-1-pentatonic.md)
-* [ Lesson 4 - Diatonic Chords ](./lesson-4-diatonics.md)
-* [ Lesson 5 - Major / Minor Scales ](./lesson-5-major-minor.md)
-* [ Lesson 6a - Intervals In Songs  ](./lesson-6a-intervals-in-songs.md)
-* [ Lesson 6 - 7th Chords  ](./lesson-6b-7th-chords.md)
-* [ Lesson 7 - Alls Modes ](./lesson-7-all-modes.md)
-* [ Lesson 8 - Improv Dorian 1 ](./lesson-8-improv-dorian.md)
-* [ Lesson 10 - Crossroads John Mayer ](./lesson-10-crossroads-john-mayer.md)
-* [ Lesson 11 - Scar Tissue 1 ](./lesson-11-scar-tissue-1.md)
-* [ Lesson 12 - Scar Tissue 2 ](./lesson-12-scar-tissue-2.md)
-* [ Lesson 13 - Scar Tissue 3 ](./lesson-13-scar-tissue-3.md)
-* [ Lesson 14 - Polyphia - So Strange ](./lesson-14-so-strange.md)
-* [ Lesson 16 - Slow Dancing ](./lesson-16-slow-dancing.md)
-* [ Lesson 17 - Little Wing ](./lesson-17-little-wing.md)
-* [ Lesson 18 - General Questions ](./lesson-18-general-questions.md)
-* [ Lesson 23 - Jazz / Cantaloupe Island ](./lesson-23-cantaloupe-island.md)
-* [ Lesson 24 - Ben Howard Only Love ](./lesson-24-ben-howard-only-love.md)
-* [ Lesson 26 - Major ](./lesson-26-major.md)
-* [ Lesson 27 - Chords For Major Modes ](./lesson-27-chords-for-modes.md)
-* [ Lesson 28 - Autumn leaves ](./lesson-28-autumn-leaves.md)
-* [ Questions ](./questions.md)
+
+## improv
+* [autumn-leaves](./improv/autumn-leaves.md)
+* [dorian](./improv/dorian.md)
+
+## Theory
+
+* [chords-for-modes](./chords-for-modes.md)
+* [diatonics](./diatonics.md)
+* [intervals](./intervals.md)
+* [major-minor](./major-minor.md)
+* [modes](./modes.md)
+* [pentatonic](./pentatonic.md)
+* [questions](./questions.md)
+* [seventh-chords](./seventh-chords.md)
+
+## Songs
+
+* [alter-bridge-broken-wings](./songs/alter-bridge-broken-wings.md)
+* [alter-bridge-ties-that-bind](./songs/alter-bridge-ties-that-bind.md)
+* [ben-howard-only-love](./songs/ben-howard-only-love.md)
+* [cantaloupe-island](./songs/cantaloupe-island.md)
+* [intervals-belvedere](./songs/intervals-belvedere.md)
+* [john-mayer-crossroads](./songs/john-mayer-crossroads.md)
+* [john-mayer-in-your-atmosphere](./songs/john-mayer-in-your-atmosphere.md)
+* [john-mayer-neon](./songs/john-mayer-neon.md)
+* [polyphia-so-strange](./songs/polyphia-so-strange.md)
+* [red-hot-chilli-peppers-scar-tissue](./songs/red-hot-chilli-peppers-scar-tissue.md)
+* [slow-dancing-john-mayer](./songs/slow-dancing-john-mayer.md)
+* [snarky-puppy-lingus](./songs/snarky-puppy-lingus.md)
+* [snarky-puppy-what-about-me](./songs/snarky-puppy-what-about-me.md)

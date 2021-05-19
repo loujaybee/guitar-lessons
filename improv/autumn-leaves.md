@@ -43,7 +43,7 @@ E|--5--5--3--
 - Lydian
 - G Minor Harmonics
 
-A (Dorian) over
+C (Dorian) over
 ```
 E|--11--10--8----------------------------------------------
 B|-------------11--10--8-----------------------------------
@@ -53,7 +53,7 @@ A|-----------------------------------------------8--5------
 E|-----------------------------------------------------8--6
 ```
 
-Lydian
+E Flat (Lydian)
 ```
 ---------------
 ---------------
@@ -63,7 +63,7 @@ Lydian
 ---------------
 ```
 
-Harmonic Minor Lick
+G Harmonic Minor Lick (Because last 3 chords in the end of the sequence)
 ```
 --3--2-----------------------------------------------
 --------4--3-----------------------------------------
@@ -82,3 +82,16 @@ Harmonic Minor Lick
 - Play through the different modes starting in different positions
 - Rhythm patterns
 - Can we compose a song from scratch?
+
+# Practice
+
+- Learn harmonic minor (overlay with the pentatonic)
+- Play Dorian / Major over the Cminor7
+- Play harmonic minor over A diminished
+- Transcribe in your atmosphere (practice strumming pattern)
+
+- C Dorian over C
+- C Dorian over F7
+- Bflat Major over BFlat Major7
+- EFflat Lydian over BFlat Major7
+- G Minor Penatonic / Harmonic Minor over A Half Dimished, D 7Flat13, GMinor6
