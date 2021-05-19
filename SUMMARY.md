@@ -8,14 +8,14 @@
 
 ## Theory
 
-* [chords-for-modes](./chords-for-modes.md)
-* [diatonics](./diatonics.md)
-* [intervals](./intervals.md)
-* [major-minor](./major-minor.md)
-* [modes](./modes.md)
-* [pentatonic](./pentatonic.md)
-* [questions](./questions.md)
-* [seventh-chords](./seventh-chords.md)
+* [chords-for-modes](./theory/chords-for-modes.md)
+* [diatonics](./theory/diatonics.md)
+* [intervals](./theory/intervals.md)
+* [major-minor](./theory/major-minor.md)
+* [modes](./theory/modes.md)
+* [pentatonic](./theory/pentatonic.md)
+* [questions](./theory/questions.md)
+* [seventh-chords](./theory/seventh-chords.md)
 
 ## Songs
 
