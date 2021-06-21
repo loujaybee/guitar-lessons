@@ -16,6 +16,7 @@
 * [pentatonic](./theory/pentatonic.md)
 * [questions](./theory/questions.md)
 * [seventh-chords](./theory/seventh-chords.md)
+* [sus-chords](./theory/sus-chords.md)
 
 ## Songs
 
