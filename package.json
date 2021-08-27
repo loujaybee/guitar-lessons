@@ -8,10 +8,8 @@
         "build": "gitbook build . docs && git add --all && git commit -m \"update\" && git push",
         "serve": "gitbook serve"
     },
-    "resolutions": {
-        "graceful-fs": "4.2.4"
-    },
+    "resolutions": {},
     "dependencies": {
-        "gitbook-cli": "^2.3.2"
+        "gitbook-cli": "github:gengjiawen/gitbook-cli"
     }
 }
