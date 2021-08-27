@@ -17,7 +17,3 @@ E|--0------------
 - Or in the pattern (2)
 - (2) is more like the piano, as it's got a 1st, 3rd, fifth in a row within the chord.
 - Observation: This is the same as the classic "sweep picking" shape
-
-### Minor 7 chord
-
-###

@@ -12,3 +12,6 @@ A collection of ideas / exercises to do at intervals, for generic practice.
 * major scale calling out the individual notes
 * go through the different seventh chords
 * go through intervals taking note of the shapes
+* go through site reading
+* pentatonic (highlighting the seventh)
+* Learn all notes on E and the A
