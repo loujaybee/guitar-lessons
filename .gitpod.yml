@@ -1,0 +1,8 @@
+tasks:
+  - name: Start development environment
+    init: npm install
+    command: npm run serve
+
+ports:
+  - port: 3000
+    onOpen: open-preview
