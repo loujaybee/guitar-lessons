@@ -16,3 +16,4 @@ A collection of ideas / exercises to do at intervals, for generic practice.
 * pentatonic (highlighting the seventh)
 * Learn all notes on E and the A
 * Go through arpeggios (whilst noting the actual notes)
+* Go through major triads (1-3-5) whilst also noting the notes
