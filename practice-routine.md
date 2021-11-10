@@ -15,3 +15,4 @@ A collection of ideas / exercises to do at intervals, for generic practice.
 * go through site reading
 * pentatonic (highlighting the seventh)
 * Learn all notes on E and the A
+* Go through arpeggios (whilst noting the actual notes)
