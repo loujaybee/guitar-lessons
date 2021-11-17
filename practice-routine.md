@@ -13,7 +13,13 @@ A collection of ideas / exercises to do at intervals, for generic practice.
 * go through the different seventh chords
 * go through intervals taking note of the shapes
 * go through site reading
+* go through site reading (do the ones below the stave)
 * pentatonic (highlighting the seventh)
 * Learn all notes on E and the A
 * Go through arpeggios (whilst noting the actual notes)
 * Go through major triads (1-3-5) whilst also noting the notes
+
+## Most Recent
+
+- Site reading (below stave)
+- Go back through the "weird chords" (diminished, 7th, major minor, 7th, etc to familiarise better)

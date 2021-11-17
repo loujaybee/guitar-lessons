@@ -2,6 +2,9 @@ tasks:
   - name: Start development environment
     init: npm install
     command: npm run serve
+  - name: Bash
+    command: echo 'Your commands here!'
+    openMode: split-right
 
 ports:
   - port: 4000
