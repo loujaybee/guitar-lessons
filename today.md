@@ -1,0 +1,4 @@
+- Transcribe Autumn Leaves
+- Transcribe Blue Bossa
+- Experiment with scales (pentatonic, harmonic minor)
+- Transcribe harmonic minor (moving over scale positions)
