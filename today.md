@@ -2,3 +2,4 @@
 - Transcribe Blue Bossa
 - Experiment with scales (pentatonic, harmonic minor)
 - Transcribe harmonic minor (moving over scale positions)
+- Blue Bossa alternative voicings
