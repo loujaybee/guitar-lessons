@@ -3,3 +3,12 @@
 - Experiment with scales (pentatonic, harmonic minor)
 - Transcribe harmonic minor (moving over scale positions)
 - Blue Bossa alternative voicings
+
+- Blue Bossa (C minor over Minor)
+- F minor over F minor
+- 4-6/8 Bar (C harmonic minor)
+- On bar 6-8 (Optionally back to C pentatonic)
+- Page 32 - Seventh Chords (memorise the formulas starting from C, not A for Blue bossa)
+- Page 34 - Pentatonic stuff
+- Remind of modes if you want
+- Practice the flat 3/4 and 7/8 intervals
