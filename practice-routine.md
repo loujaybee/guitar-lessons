@@ -2,20 +2,22 @@
 
 A collection of ideas / exercises to do at intervals, for generic practice.
 
+* **run through diatonic chords (I ii iii IV V vi viiø) in a major key**  
 * penatonic shapes run through
 * pentatonics, adding in root notes
 * pentatonics starting from different parts of fretboard
 * major scale run through
 * major noticing the root notes
 * major noticing the intervals
-* major playing over modal chords
+* modal scales in a major scale 
 * major scale calling out the individual notes
 * go through the different seventh chords
 * go through intervals taking note of the shapes
-* go through site reading
-* go through site reading (do the ones below the stave)
-* pentatonic (highlighting the seventh)
-* Learn all notes on E and the A
+* go through sight reading
+* go through sight reading (do the ones below the stave)
+* minor pentatonic (highlighting the flat seventh)
+*** Learn all notes on E and the A**
+* **Learn all notes on all strings from 0-5 fret (site reading)**
 * Go through arpeggios (whilst noting the actual notes)
 * Go through major triads (1-3-5) whilst also noting the notes
 
