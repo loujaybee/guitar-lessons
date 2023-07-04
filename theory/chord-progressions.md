@@ -1,0 +1,17 @@
+
+- 1645 - every breathe you take (doo wap)
+    - Minor second note
+- 1564 - with or without you / the calling / so lonely
+    - Softer landing (compared to the other)
+- 251 - jazz
+    - Function in pop (as wider function)
+- 1625 - 
+    - More minor-y than 1625
+- 1214 - Country
+- 12(1)45 - Uptown girl
+    - Linear progression
+- 134minor4 - Creep
+    - 3 acts as 5 in relative minor
+- Major 4 to Minor 4
+    - Wake me up when september ends
+- 6543 - Pinky and the brain
